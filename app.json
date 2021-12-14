@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-drawer-stack-tab-navigation",
+    "slug": "react-native-drawer-stack-tab-navigation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-drawer-stack-tab-navigation"
+}
