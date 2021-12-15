@@ -2,12 +2,12 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 
-import Main from './app/screens/Main';
+import { MainStackNavigator } from "./app/navigation/StackNavigator";
 
 export default function App() {
   return (
     <NavigationContainer>
-      <Main />
+      <MainStackNavigator />
     </NavigationContainer>
   );
 }
